@@ -1,4 +1,4 @@
-# 🚀 Nome do Projeto
+# 🌐📝 ConnectReg 
 
 Projeto da disciplina **Desenvolvimento Web II**, orientado pelo professor **Cláudio Etelvino**, desenvolvido para a empresa **(...)**. Trata-se de uma **aplicação multiplataforma** focada no cadastro e gerenciamento de produtos.
 
@@ -10,7 +10,7 @@ A empresa enfrentava dificuldades devido à **falta de uma plataforma de cadastr
 
 | Backend | Frontend | Banco de Dados | Outras Tecnologias |
 |---------|---------|---------------|-------------------|
-| Node.js, Express, ORM (Prisma/Sequelize) | React.js, Tailwind CSS | MySQL/PostgreSQL | Docker, JWT (Autenticação), API REST |
+| Node.js, Express, ORM (Prisma/Sequelize) | React.js | MySQL | JWT (Autenticação) |
 
 ## 🎯 MVP (Minimum Viable Product)
 
@@ -19,7 +19,6 @@ A empresa enfrentava dificuldades devido à **falta de uma plataforma de cadastr
 | Cadastro, edição e remoção de produtos |
 | Listagem e pesquisa de produtos |
 | Interface intuitiva e responsiva |
-| API REST para integração |
 
 ## 📂 Repositórios
 
@@ -30,11 +29,11 @@ A empresa enfrentava dificuldades devido à **falta de uma plataforma de cadastr
 
 ## 👥 Equipe
 
-| Nome | Função |
-|------|--------|
-| Nome 1 | Desenvolvedor Full Stack |
-| Nome 2 | Desenvolvedor Backend |
-| Nome 3 | Desenvolvedor Frontend |
+| 🔤 Nome | 🔗 GitHub | 🔗 LinkedIn |
+|---------|----------|------------|
+| João Vítor Góes | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes/) |
+| Alexandre de Souza | [GitHub](https://github.com/AlexandreFatec) | [LinkedIn]() |
+| Breno Augusto | [GitHub](https://github.com/brenoasj) | [LinkedIn]() |
 
 ## 📖 Manual de Uso
 
